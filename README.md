@@ -1,5 +1,5 @@
 # Project Ideas
-A catalog of diffrent Projects to be taken by us in the future.
+A catalog of different Projects to be taken by us in the future.
 
 1) Data Training Online
 2) Object Detection in Flutter
