@@ -8,3 +8,5 @@ A catalog of different Projects to be taken by us in the future.
 5) Mutli level translation api.
 6) Basic Chat Bot.
 7) CSGO Playing Bot.
+8) DDOS Script
+9) Movie Recommender 
