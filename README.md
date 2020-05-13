@@ -9,5 +9,5 @@ A catalog of different Projects to be taken by us in the future.
 6) Basic Chat Bot.
 7) CSGO Playing Bot.
 8) DDOS Script
-9) Movie Recommender 
+9) Movie Recommender
 10)Tic-Tac-Toe using reinforcement learning
