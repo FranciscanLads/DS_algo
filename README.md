@@ -12,3 +12,4 @@ A catalog of different Projects to be taken by us in the future.
 9) Movie Recommender. (Mayank) 
 10. Tic-Tac-Toe using reinforcement learning. (Aryaman)
 11. World Chat. (Ankur)
+12. Certificates Generator. (Shubhendu)
